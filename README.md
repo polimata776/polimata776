@@ -1,3 +1,2 @@
 ## Hi there 👋
-
-I am a Physics student at Universidade Federal de Pernambuco (UFPE) focused on data science, artificial intelligence and Cosmology. I am currently conducting undergraduate research at Fiocruz PE, integrating data for public health research. I have experience in machine learning, data engineering, and cloud computing. I share my cosmology and data analysis projects here.
+I am a Physics student at the Federal University of Pernambuco (UFPE), focusing on data science, artificial intelligence, and cosmology. Currently, I am conducting undergraduate research at Fiocruz PE, integrating data for public health research. I have experience in machine learning, data engineering, and cloud computing. I share my projects in cosmology, epidemiology, quantum mechanics, and data analysis. I really enjoy studying diverse areas in depth, so you will see projects from various fields here.
